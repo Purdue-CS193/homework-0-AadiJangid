@@ -1,3 +1,9 @@
+# Aadi Jangid's First CS193 Homework
+- CS193 teaches us things that will be useful throughout our entire CS careers, such as terminal commands.
+- The heads of the class are very knowledgable and always open to helping when a student is confused. 
+- Lectures and class material are very well-explained.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
